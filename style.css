@@ -1,0 +1,45 @@
+body {
+    margin:auto;
+    background-color: black;
+}
+
+.logo {
+/*    margin: 50px;*/
+    padding: 15px 30px;
+    color: aqua; 
+    font-size:70px;
+}
+
+a {
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 30px;
+    padding: 15px 30px;
+/*    display: inline-nowrap;*/
+    font-size:30px; 
+    color: white;
+    text-decoration: none;
+    
+}
+
+a.active {
+    color: aqua
+}
+
+.navbar{
+    height: 20vh;
+    background-color: black;
+    display: flex;
+}
+
+.mi {
+    text-align: right;
+    float: right;
+    display: flex;
+    width: 60%;
+}
+
+.info {
+    color: white;
+    padding: 1%;
+}
