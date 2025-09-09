@@ -1,13 +1,13 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"TileSet6",
+  "%Name":"TileSet8",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"TileSet6",
+  "name":"TileSet8",
   "out_columns":14,
   "out_tilehborder":2,
   "out_tilevborder":2,
@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_snowtree",
-    "path":"sprites/spr_snowtree/spr_snowtree.yy",
+    "name":"spr_junglegrass2",
+    "path":"sprites/spr_junglegrass2/spr_junglegrass2.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{

@@ -1,14 +1,14 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"TileSet6",
+  "%Name":"TileSet2",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"TileSet6",
-  "out_columns":14,
+  "name":"TileSet2",
+  "out_columns":4,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_snowtree",
-    "path":"sprites/spr_snowtree/spr_snowtree.yy",
+    "name":"spr_river",
+    "path":"sprites/spr_river/spr_river.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
@@ -34,5 +34,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":196,
+  "tile_count":16,
 }
