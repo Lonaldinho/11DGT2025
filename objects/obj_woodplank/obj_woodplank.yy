@@ -1,20 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_enemy12",
+  "%Name":"obj_woodplank",
   "eventList":[],
   "managed":true,
-  "name":"obj_enemy12",
-  "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_enemy_parent","path":"objects/obj_enemy_parent/obj_enemy_parent.yy",},"propertyId":{"name":"xp_value","path":"objects/obj_enemy_parent/obj_enemy_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"10000",},
-  ],
+  "name":"obj_woodplank",
+  "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Rooms/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"obj_enemy_parent",
-    "path":"objects/obj_enemy_parent/obj_enemy_parent.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_enemy12",
-    "path":"sprites/spr_enemy12/spr_enemy12.yy",
+    "name":"spr_woodplank",
+    "path":"sprites/spr_woodplank/spr_woodplank.yy",
   },
   "spriteMaskId":null,
   "visible":true,

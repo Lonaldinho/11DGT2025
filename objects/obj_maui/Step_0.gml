@@ -1,3 +1,10 @@
+if (window_get_width() != winw || window_get_height() != winh)
+{
+    display_set_gui_maximize();
+}
+
+
+
 if (instance_exists(obj_dialog)) exit;
 
 // This the WASD code for the player to move
@@ -20,7 +27,7 @@ if (_hor != 0 or _ver != 0)
 
 
 
-
+// When space bar is pressed the attack will come out where the player is facing
 if (keyboard_check_pressed(vk_space))
 {
     var _inst = instance_create_depth(x, y, depth, obj_attack);

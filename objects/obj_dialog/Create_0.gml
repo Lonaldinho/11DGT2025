@@ -1,3 +1,5 @@
+// When the space bar is pressed the message will come out and how long and high the chat is
+
 messages = [];
 current_message = -1;
 current_char = 0;

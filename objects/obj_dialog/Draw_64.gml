@@ -1,3 +1,4 @@
+// Drawing a GUI layer for my game
 var _dx = 0;
 var _dy = gui_h * 0.7;
 var _boxw = gui_w;

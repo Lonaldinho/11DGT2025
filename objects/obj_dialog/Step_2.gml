@@ -1,3 +1,4 @@
+// The dialog logic
 if (current_message < 0) exit;
     
 var _str = messages[current_message].msg;

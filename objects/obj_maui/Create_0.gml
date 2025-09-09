@@ -1,3 +1,9 @@
+// Size of the UI stays the same
+winw = window_get_width();
+winh = window_get_height();
+
+
+
 // how fast the player move
 move_speed = 1;
 

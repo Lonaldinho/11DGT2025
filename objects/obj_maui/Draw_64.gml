@@ -1,3 +1,4 @@
+// The length and height of the hp and xp box
 var _dx = 16;
 var _dy = 16;
 var _barw = 256;
@@ -16,7 +17,7 @@ draw_sprite_stretched_ext(spr_box, 1, _dx, _dy, _health_barw, _barh, c_red, 0.6)
 
 draw_text(_dx + _barw / 2, _dy + _barh / 2, "HP");
 
-// XP
+// Everything of XP like level up system
 var _xp_barw = _barw * (xp / xp_require);
 _dy += _barh + 8;
 

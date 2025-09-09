@@ -1,3 +1,5 @@
+// If the player is close and exist the enemy follow the player
+// If the player is out of enemy's range the enemy will randomly move in the range
 if (instance_exists(obj_maui) && distance_to_object(obj_maui) < distance_to_player)
 {
     target_x = obj_maui.x;

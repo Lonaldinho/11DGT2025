@@ -1,3 +1,4 @@
+// Enemy come close to the player and when you get hit, red color will pop out
 if (alarm[0] < 0)
 {
     hp -= other.damage;
